@@ -5414,7 +5414,7 @@ Takuo Sawada&lt;br&gt;
 <part name="SUPPLY1" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="C5" library="my_rcl" deviceset="C" device="-1608" value="0.1u"/>
 <part name="SUPPLY2" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
-<part name="R1" library="my_rcl" deviceset="R" device="-7.5" value="10"/>
+<part name="R1" library="my_rcl" deviceset="R" device="-7.5" value="1"/>
 <part name="FB1" library="my_rcl" deviceset="FB" device="-1608"/>
 <part name="C3" library="my_rcl" deviceset="C" device="-2012" value="10u"/>
 <part name="SUPPLY3" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
@@ -5475,16 +5475,16 @@ Takuo Sawada&lt;br&gt;
 <part name="+3V10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="+3V11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="C21" library="my_rcl" deviceset="C" device="-2012" value="10u"/>
-<part name="X1" library="my_rcl" deviceset="OSC" device="-KC7050" value="22.5792MHz"/>
-<part name="X2" library="my_rcl" deviceset="OSC" device="-KC7050" value="24.576MHz"/>
+<part name="X1" library="my_rcl" deviceset="OSC" device="-KC7050" value="24.576MHz"/>
+<part name="X2" library="my_rcl" deviceset="OSC" device="-KC7050" value="22.5792MHz"/>
 <part name="IC1" library="my_ic" deviceset="TC7WU04FU" device=""/>
 <part name="SUPPLY24" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="SUPPLY25" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="IC2" library="my_ic" deviceset="TC7WH74FU" device=""/>
 <part name="+3V12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="+3V13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="C1" library="my_rcl" deviceset="C" device="-1608" value="0.1u"/>
-<part name="C2" library="my_rcl" deviceset="C" device="-1608" value="0.1u"/>
+<part name="C1" library="my_rcl" deviceset="C" device="-1608" value="0.01u"/>
+<part name="C2" library="my_rcl" deviceset="C" device="-1608" value="0.01u"/>
 <part name="C10" library="my_rcl" deviceset="C" device="-1608" value="0.1u"/>
 <part name="C13" library="my_rcl" deviceset="C" device="-1608" value="0.1u"/>
 <part name="SUPPLY26" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
