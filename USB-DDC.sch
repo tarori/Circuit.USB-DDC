@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6706,30 +6706,6 @@ Takuo Sawada&lt;br&gt;
 <junction x="116.84" y="5.08"/>
 <wire x1="116.84" y1="5.08" x2="111.76" y2="5.08" width="0.1524" layer="91"/>
 <pinref part="C21" gate="G$1" pin="2"/>
-</segment>
-</net>
-<net name="AD_SCK" class="0">
-<segment>
-<pinref part="IC5" gate="G$2" pin="PX34"/>
-<wire x1="53.34" y1="27.94" x2="48.26" y2="27.94" width="0.1524" layer="91"/>
-<label x="48.26" y="27.94" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="IC5" gate="G$3" pin="PX28"/>
-<wire x1="88.9" y1="43.18" x2="83.82" y2="43.18" width="0.1524" layer="91"/>
-<label x="83.82" y="43.18" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="AD_LRCLK" class="0">
-<segment>
-<pinref part="IC5" gate="G$3" pin="PX26"/>
-<wire x1="88.9" y1="45.72" x2="83.82" y2="45.72" width="0.1524" layer="91"/>
-<label x="83.82" y="45.72" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="IC5" gate="G$2" pin="PX36"/>
-<wire x1="53.34" y1="71.12" x2="48.26" y2="71.12" width="0.1524" layer="91"/>
-<label x="48.26" y="71.12" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$13" class="0">
